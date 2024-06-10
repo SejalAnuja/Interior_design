@@ -1,0 +1,10 @@
+.background{
+    background-color: #FFF2E1;
+    background-size: 180% 180%;
+
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
